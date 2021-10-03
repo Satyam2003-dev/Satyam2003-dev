@@ -134,10 +134,6 @@ Yo ✌️, I'm Satyam Kumar</h1>
 
 
 
-
-<!-- ### Hi there 👋
-
-<!--
 **Satyam2003-dev/Satyam2003-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
