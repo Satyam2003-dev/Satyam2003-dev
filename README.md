@@ -132,7 +132,7 @@ Yo ✌️, I'm Satyam Kumar</h1>
 ![](https://hit.yhype.me/github/profile?user_id=78433942)
 
 
-
+<!--
 
 **Satyam2003-dev/Satyam2003-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -145,5 +145,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> -->
+- ⚡ Fun fact: ... -->
