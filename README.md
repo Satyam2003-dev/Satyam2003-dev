@@ -52,6 +52,9 @@ Yo ✌️, I'm Satyam Kumar</h1>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=radical" height="180rem"  />
 </p>
 
+ [![Satyam2003-dev's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Satyam2003-dev&theme=xcode)](https://git.io/Satyam2003-dev)
+
+
 <!-- <-- <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&show_icons=true&theme=dark&locale=en" alt="Satyam2003-dev" /></td>
