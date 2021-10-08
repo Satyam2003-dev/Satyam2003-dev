@@ -48,6 +48,25 @@ Yo ✌️, I'm Satyam Kumar</h1>
     
     
     
+<p align="center" >
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=radical" height="180rem"  />
+</p>
+
+<!-- <-- <table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&show_icons=true&theme=dark&locale=en" alt="Satyam2003-dev" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam2003-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="Satyam2003-dev" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=dark" alt="Satyam2003-dev" /></p>
+  </div> -->
+
+
+    
+    
+    
 
 
 <!-- <-- <table>
