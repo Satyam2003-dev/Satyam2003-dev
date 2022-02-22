@@ -55,50 +55,17 @@ Yo ✌️, I'm Satyam Kumar</h1>
  [![Satyam2003-dev's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Satyam2003-dev&theme=xcode)](https://git.io/Satyam2003-dev)
 
 
-<!-- <-- <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&show_icons=true&theme=dark&locale=en" alt="Satyam2003-dev" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam2003-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="Satyam2003-dev" /></td>
-  </tr>
-</table>
+<hr>
+<h3> Github Profile  Trophy </h3>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=dark" alt="Satyam2003-dev" /></p>
-  </div> -->
-
-
-    
-    
-    
-
-
-<!-- <-- <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shivam2003-dev&show_icons=true&theme=dark&locale=en" alt="shivam2003-dev" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam2003-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="shivam2003-dev" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam2003-dev&theme=dark" alt="shivam2003-dev" /></p>
-  </div> -->
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=onedark&column=9" alt="zumrudu-anka" />
+    </a>
+</div>
+<hr>
+ 
 ### 🛠 &nbsp;Tech Stack
-<!--
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
--->
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> &nbsp;
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -122,49 +89,5 @@ Yo ✌️, I'm Satyam Kumar</h1>
 <img alt="Windows 11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> &nbsp;
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-
-
-
-
-
-
-<!--
-<div class="align-items-center">
-<a href="https://www.linkedin.com/in/satyam-kumar2003/">
-  <img align="left" alt="Shivam's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;
-</a>
-<a href="https://www.instagram.com/satyam_kumar2003/">
-  <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:shivam.sk3002@gmail.com">
-  <img align="left" alt="Shivam's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</div>
-<br><br>
-
-<h2 align="center">My work is mostly realted to Cyber-Security and Web-Development</h2>
-<h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2>
--->
-
-
-
-                                                                                        
-                                                                                        
+                                                                                 
 ![](https://hit.yhype.me/github/profile?user_id=78433942)
-
-
-<!--
-
-**Satyam2003-dev/Satyam2003-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
