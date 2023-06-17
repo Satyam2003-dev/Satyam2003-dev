@@ -16,9 +16,9 @@ Yo ✌️, I'm Satyam Kumar</h1>
 
 - 🌱 I’m currently an undergrad at <b>CU ,Punjab</b> .<br>
 - 📖 Learning new stuff is my hobby .<br>
-- 👨‍💻 Jack of all trade . <br>
+- 👨‍💻 Jack of all trade. <br>
 - 💻 Learning Hacking .<br>
-- 💬 Ask me anything .Happy to help .<br>
+- 💬 Ask me anything.Happy to help .<br>
 - 📫 connect with  me around the web:<br>
 
 <a href="https://www.linkedin.com/in/satyam-kumar-sk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -50,7 +50,7 @@ Yo ✌️, I'm Satyam Kumar</h1>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=radical" height="180rem"  />
 </p>
 
- [![Satyam2003-dev's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Satyam2003-dev&theme=dracula)](https://github.com/Satyam2003-dev/github-readme-activity-graph)
+ [![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev)](https://github.com/Satyam2003-dev/github-readme-activity-graph)
 
 
 <hr>
