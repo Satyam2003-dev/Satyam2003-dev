@@ -16,9 +16,9 @@ Yo ✌️, I'm Satyam Kumar</h1>
 
 - 🌱 I’m currently an undergrad at <b>CU ,Punjab</b> .<br>
 - 📖 Learning new stuff is my hobby .<br>
-- 👨‍💻 Jack of all trade. <br>
-- 💻 Learning Hacking .<br>
-- 💬 Ask me anything.Happy to help .<br>
+- 👨‍💻 Jack of all trades. <br>
+- 💻 Learning Coding .<br>
+- 💬 Ask me anything. Happy to help .<br>
 - 📫 connect with  me around the web:<br>
 
 <a href="https://www.linkedin.com/in/satyam-kumar-sk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
