@@ -89,9 +89,10 @@ Yo ✌️, I'm Satyam Kumar</h1>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> &nbsp;
 <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> &nbsp;
-<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-1976D2?style=for-the-badge&logo=material-ui&logoColor=white" /> &nbsp;
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> &nbsp;
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=machine-learning&logoColor=white"/> &nbsp;
-<img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+<img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" /> &nbsp;
+<img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 
 
 
