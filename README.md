@@ -24,6 +24,7 @@ Yo ✌️, I'm Satyam Kumar</h1>
 
 <a href="https://www.linkedin.com/in/iamsatyam1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:satyamkumar.sk2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.pexels.com/@iamsatyam1/"><img alt="Pexels" src="https://img.shields.io/badge/Pexels-05A081?style=flat&logo=pexels&logoColor=white" /></a> &nbsp;
 </div>
 
 
