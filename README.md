@@ -14,11 +14,9 @@ Yo ✌️, I'm Satyam Kumar</h1>
 
 <img align="right" height="250px" width="400px" alt="Satyam octocat" src="https://content.techgig.com/thumb/msid-77087595,width-860,resizemode-4/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg?336360" >
 
-- 🌱 I’m currently an undergrad at <b>CU ,Punjab</b> .<br>
 - 📖 Learning new stuff is my hobby .<br>
 - 👨‍💻 Jack of all trades. <br>
 - 💻 Learning Coding .<br>
-- 💻 Learning Hacking .<br>
 - 💬 Ask me anything. Happy to help .<br>
 - 📫 connect with  me around the web:<br>
 
