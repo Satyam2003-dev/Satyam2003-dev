@@ -4,6 +4,12 @@
   <img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRobWllrWdma2U.jpg" alt="Satyam Kumar" width="800" style="border-radius: 10px"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyam2003-dev&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Learning-Docker%20%26%20Kubernetes-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Job Status" />
+</p>
+
 ## ✨ About Me
 
 - 📚 Passionate about learning and exploring new technologies
@@ -15,7 +21,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=react&hide_border=true" width="51%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=tokyonight&hide_border=react" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&layout=compact&show_icons=true&theme=react" width="48%" />
 </div>
 <br />
