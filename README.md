@@ -15,19 +15,19 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=tokyonight-duo&hide_border=true" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&layout=compact&show_icons=true&theme=tokyonight-duo" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=react&hide_border=true" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&layout=compact&show_icons=true&theme=react" width="48%" />
 </div>
 <br />
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight-duo" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=tokyonight-duo" width="60%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=react" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=merko" width="60%" />
 </div>
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=tokyonight-duo&no-frame=false&margin-w=15&margin-h=15&column=5&no-bg=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&column=5&no-bg=false" alt="GitHub Trophies" />
 </p>
 
 ## 🌐 Connect With Me
