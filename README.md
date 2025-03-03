@@ -56,11 +56,12 @@ Yo ✌️, I'm Satyam Kumar</h1>
 <hr>
 <h3> Github Profile  Trophy </h3>
 
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=onedark&column=9" alt="Satyam2003-dev GitHub Trophy" />
+<div align="center">
+    <a href="https://github.com/screw-hand/github-profile-trophy" title="Go to Source">
+        <img align="center" width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=Satyam2003-dev&rank=SECRET&wantAll=true" alt="Satyam2003-dev GitHub Trophy" />
     </a>
 </div>
+
 
 <hr>
  
