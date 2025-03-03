@@ -21,7 +21,7 @@
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=Satyam2003-dev&theme=tokyonight-duo&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam2003-dev&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
