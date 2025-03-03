@@ -40,9 +40,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight&langs_count=8&border_radius=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=tokyonight&background=000000&border=00ff99&stroke=00ff99&ring=00ccff&fire=00ff99&currStreakLabel=00ccff&border_radius=8" alt="GitHub Streak" />
-</div>
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam2003-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
