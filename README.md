@@ -12,29 +12,22 @@
 - 🧠 Problem solver who enjoys tackling complex challenges
 - 🌱 Constantly growing and evolving as a developer
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&border_radius=8" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight&langs_count=8&border_radius=8" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=tokyonight-duo&hide_border=true" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&layout=compact&show_icons=true&theme=tokyonight-duo" width="48%" />
+</div>
+<br />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight-duo" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=tokyonight-duo" width="60%" />
 </div>
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=Satyam2003-dev&theme=tokyonight-duo&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam2003-dev&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&column=5&no-bg=false" alt="GitHub Trophies" />
-</p>
-
-## 📈 Contribution Graph
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=tokyonight&bg_color=0,00ccff,00ff99&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=tokyonight-duo&no-frame=false&margin-w=15&margin-h=15&column=5&no-bg=false" alt="GitHub Trophies" />
 </p>
 
 ## 🌐 Connect With Me
