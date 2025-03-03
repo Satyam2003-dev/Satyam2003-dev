@@ -1,13 +1,13 @@
 # 👨‍💻 Satyam Kumar | Developer & Photographer
 
 <p align="center">
-  <img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRobWllrWdma2U.jpg" alt="Satyam Kumar" width="800" style="border-radius: 10px"/>
+  <img src="https://komarev.com/ghpvc/?username=Satyam2003-dev&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Learning-Docker%20%26%20Kubernetes-blue?style=flat-square&logo=docker&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Job Status" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satyam2003-dev&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Learning-Docker%20%26%20Kubernetes-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Learning" />
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Job Status" />
+  <img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRobWllrWdma2U.jpg" alt="Satyam Kumar" width="800" style="border-radius: 10px"/>
 </p>
 
 ## ✨ About Me
@@ -21,7 +21,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=tokyonight&hide_border=react" width="51%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=react&hide_border=true" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&layout=compact&show_icons=true&theme=react" width="48%" />
 </div>
 <br />
@@ -40,16 +40,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:satyamkumar.sk2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.pexels.com/@iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/Pexels-00C853?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+    <img src="https://img.shields.io/badge/Pexels-00C853?style=flat-square&logo=pexels&logoColor=white" alt="Pexels" />
   </a>
 </p>
 
