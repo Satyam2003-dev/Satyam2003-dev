@@ -1,95 +1,79 @@
+# 👨‍💻 Satyam Kumar | Developer & Photographer
 
-<!---
-satyam2003-dev/satyam2003-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">
-Yo ✌️, I'm Satyam Kumar</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyam2003-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Satyam" /> </p>
-
-<h3 align="center">Love coding and Designing</h3>
-
-
-<img align="right" height="250px" width="400px" alt="Satyam octocat" src="https://content.techgig.com/thumb/msid-77087595,width-860,resizemode-4/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg?336360" >
-
-- 📖 Learning new stuff is my hobby .<br>
-- 👨‍💻 Jack of all trades. <br>
-- 💻 Learning Coding .<br>
-- 💬 Ask me anything. Happy to help .<br>
-- 📫 connect with  me around the web:<br>
-
-<a href="https://www.linkedin.com/in/iamsatyam1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:satyamkumar.sk2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.pexels.com/@iamsatyam1/"><img alt="Pexels" src="https://img.shields.io/badge/Pexels-05A081?style=flat&logo=pexels&logoColor=white" /></a> &nbsp;
-</div>
-
-
-
-
-### &#x1f4c8; GitHub Stats
-<hr>
-<table>
-  <tr>
-<td><a href="https://github.com/Satyam2003-dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180rem" />
-  </a></td>
-    
-<td> 
-  <a href="https://github.com/Satyam2003-dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=radical" height="180rem"/>
-  </a></td>
-    
-  </tr>
-  </table>
-    
-    
-    
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=gradient&background=000000&border=00ff99&stroke=00ff99&ring=00ccff&fire=00ff99&currStreakLabel=00ccff" height="180rem" />
+  <img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRobWllrWdma2U.jpg" alt="Satyam Kumar" width="800" style="border-radius: 10px"/>
 </p>
 
-[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=react-dark&bg_color=0,00ccff,00ff99&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/Satyam2003-dev/github-readme-activity-graph)
+## ✨ About Me
 
+- 📚 Passionate about learning and exploring new technologies
+- 💻 Software developer with a focus on full-stack development
+- 📷 Candid photographer capturing moments that tell stories
+- 🧠 Problem solver who enjoys tackling complex challenges
+- 🌱 Constantly growing and evolving as a developer
 
-<hr>
-<h3> Github Profile  Trophy </h3>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
-    <a href="https://github.com/screw-hand/github-profile-trophy" title="Go to Source">
-        <img align="center" width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=Satyam2003-dev&rank=SECRET,SSS,SS,S&theme=onedark&no-frame=false&margin-w=15&margin-h=15&column=7&no-bg=false&wantAll=true" alt="Satyam2003-dev GitHub Trophy" />
-    </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&border_radius=8" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight&langs_count=8&border_radius=8" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=tokyonight&background=000000&border=00ff99&stroke=00ff99&ring=00ccff&fire=00ff99&currStreakLabel=00ccff&border_radius=8" alt="GitHub Streak" />
+</div>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&column=5&no-bg=false" alt="GitHub Trophies" />
+</p>
 
-<hr>
- 
-### 🛠 &nbsp;Tech Stack
+## 📈 Contribution Graph
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> &nbsp;
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp;
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> &nbsp;
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> &nbsp;
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> &nbsp;
-<img alt="Python" src="https://img.shields.io/badge/python-%233B7C99.svg?style=for-the-badge&logo=python&logoColor=white"/> &nbsp;
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> &nbsp;
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &nbsp;
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp;
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> &nbsp;
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> &nbsp;
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> &nbsp;
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> &nbsp;
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"/> &nbsp;
-<img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/> &nbsp;
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> &nbsp;
-<img alt="UI/UX Design" src="https://img.shields.io/badge/UI%2FUX-FF6F61.svg?style=for-the-badge&logo=figma&logoColor=white"/> &nbsp;
-<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F61.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/> &nbsp;
-<img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4.svg?style=for-the-badge&logo=brain&logoColor=white"/> &nbsp;
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> &nbsp;
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=react-dark&bg_color=0,00ccff,00ff99&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
+## 🌐 Connect With Me
 
-                                                                                 
+<p align="center">
+  <a href="https://linkedin.com/in/iamsatyam1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+  </a>
+  <a href="https://instagram.com/iamsatyam1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+  </a>
+  <a href="mailto:satyamkumar.sk2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+  </a>
+  <a href="https://www.pexels.com/@iamsatyam1" target="_blank">
+    <img src="https://img.shields.io/badge/Pexels-00C853?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" style="border-radius: 12px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</p>
+
 ![](https://hit.yhype.me/github/profile?user_id=78433942)
