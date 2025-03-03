@@ -84,6 +84,8 @@ Yo ✌️, I'm Satyam Kumar</h1>
 <img alt="UI/UX Design" src="https://img.shields.io/badge/UI%2FUX-FF6F61.svg?style=for-the-badge&logo=figma&logoColor=white"/> &nbsp;
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F61.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/> &nbsp;
 <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4.svg?style=for-the-badge&logo=brain&logoColor=white"/> &nbsp;
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> &nbsp;
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 
                                                                                  
