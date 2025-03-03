@@ -58,9 +58,10 @@ Yo ✌️, I'm Satyam Kumar</h1>
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=onedark&column=9" alt="zumrudu-anka" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=onedark&column=9" alt="Satyam2003-dev GitHub Trophy" />
     </a>
 </div>
+
 <hr>
  
 ### 🛠 &nbsp;Tech Stack
