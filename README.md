@@ -46,11 +46,11 @@ Yo ✌️, I'm Satyam Kumar</h1>
     
     
     
-<p align="center" >
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=radical" height="180rem"  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam2003-dev&theme=gradient&background=000000&border=00ff99&stroke=00ff99&ring=00ccff&fire=00ff99&currStreakLabel=00ccff" height="180rem" />
 </p>
 
- [![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev)](https://github.com/Satyam2003-dev/github-readme-activity-graph)
+[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=react-dark&bg_color=0,00ccff,00ff99&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/Satyam2003-dev/github-readme-activity-graph)
 
 
 <hr>
