@@ -58,9 +58,10 @@ Yo ✌️, I'm Satyam Kumar</h1>
 
 <div align="center">
     <a href="https://github.com/screw-hand/github-profile-trophy" title="Go to Source">
-        <img align="center" width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=Satyam2003-dev&rank=SECRET&wantAll=true" alt="Satyam2003-dev GitHub Trophy" />
+        <img align="center" width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=Satyam2003-dev&rank=SECRET,SSS,SS,S&theme=onedark&no-frame=false&margin-w=15&margin-h=15&column=7&no-bg=false&wantAll=true" alt="Satyam2003-dev GitHub Trophy" />
     </a>
 </div>
+
 
 
 <hr>
