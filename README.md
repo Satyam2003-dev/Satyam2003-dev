@@ -1,5 +1,4 @@
-# 👨‍💻 Satyam Kumar | Developer & Photographer
-
+# 👨‍💻 Satyam Kumar | Code. Capture. Create.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Satyam2003-dev&color=blue&style=flat&logo=github" alt="Profile Views" />&nbsp;
   </p>
