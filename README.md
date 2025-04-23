@@ -1,5 +1,7 @@
 # 👨‍💻 Satyam Kumar | Code. Capture. Create 
-**"Developer by day, photographer by night – crafting code and capturing moments, always seeking the next masterpiece."**
+**"I capture the world in frames by day, and build its digital twin by night —**  
+**where passion meets precision, and every line of code is a brushstroke."**
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Satyam2003-dev&color=blue&style=flat&logo=github" alt="Profile Views" />&nbsp;
