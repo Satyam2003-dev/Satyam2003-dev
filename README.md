@@ -1,85 +1,89 @@
-# 👨‍💻 Satyam Kumar | Code. Capture. Create 
-**"I capture the world in frames by day, and build its digital twin by night —**  
-**where passion meets precision, and every line of code is a brushstroke."**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=DevSecOps+Engineer+%7C+Guardian+of+Code;Capturing+Life+in+Frames+(Photographer);Automating+Cloud+Infrastructure;Building+Digital+Twins" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://images.stockcake.com/public/c/6/1/c617c58e-4ae3-4334-97d3-13d099db8ff1_large/neon-data-thieves-stockcake.jpg" alt="Satyam Kumar" width="100%" style="border-radius: 12px; border: 2px solid #20C20E; box-shadow: 0 0 20px rgba(32, 194, 14, 0.4);"/>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Satyam2003-dev&color=blue&style=flat&logo=github" alt="Profile Views" />&nbsp;
-  </p>
+<br/>
 
-## 🌐 Connect With Me  
+<p align="center">
+  <b>"I architect secure infrastructure by day, and freeze time in frames by night."</b><br/>
+  <i>Bridging the gap between raw binary and visual artistry.</i>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:satyamkumar.sk2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.pexels.com/@iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/-Pexels-00C853?style=flat&logo=pexels" alt="Pexels" />
+    <img src="https://img.shields.io/badge/My_Photography-00C853?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRobWllrWdma2U.jpg" alt="Satyam Kumar" width="800" style="border-radius: 10px"/>
-</p>
+---
 
-## ✨ About Me  
-
-- 📚 Passionate about learning and exploring new technologies  
-- 💻 Software developer with a focus on full-stack development  
-- 📷 Candid photographer capturing moments that tell stories  
-- 🧠 Problem solver who enjoys tackling complex challenges  
-- 🌱 Constantly growing and evolving as a developer  
-
-## 📈 GitHub Stats  
+<h2 align="center">⚡ The Operator Profile</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=react&hide_border=true" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&layout=compact&show_icons=true&theme=react" width="48%" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 Engineering (DevSecOps)</h3>
+      <ul>
+        <li><b>Focus:</b> Cloud Security, CI/CD Automation, K8s.</li>
+        <li><b>Philosophy:</b> "Security is not an afterthought."</li>
+        <li><b>Current Mission:</b> Mastering Cloud-Native Security.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📷 Creativity (Photography)</h3>
+      <ul>
+        <li><b>Style:</b> Candid, Street, and Narrative.</li>
+        <li><b>Gear:</b> Capturing stories, not just pixels.</li>
+        <li><b>View Work:</b> <a href="https://www.pexels.com/@iamsatyam1">Check my Pexels Portfolio</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </div>
-<br />
+
+<br/>
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=react" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=merko" width="60%" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform&perline=6" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,cpp,mysql&perline=6" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,mongodb,nodejs,express&perline=6" />
 </div>
 
-## 🛠 &nbsp;Tech Stack  
+<br/>
 
-### **Languages**  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<h2 align="center">📊 Network Traffic (Stats)</h2>
 
-### **Technologies & Frameworks**  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=tokyonight&hide_border=true&card_width=500" alt="Streak Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%" />
+</div>
 
-### **Databases**  
-![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+<h2 align="center">🐍 Contribution Activity</h2>
+<div align="center">
+  <img src="https://github.com/Satyam2003-dev/Satyam2003-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
 
-## 🏆 Achievements  
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam2003-dev&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&column=5&no-bg=false" alt="GitHub Trophies" />
-</p>
-  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
-</p>
-
-![](https://hit.yhype.me/github/profile?user_id=78433942)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=000000,20C20E,000000&animation=fadeIn" />
+</div>
