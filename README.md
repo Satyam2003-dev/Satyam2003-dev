@@ -1,89 +1,106 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=DevSecOps+Engineer+%7C+Guardian+of+Code;Capturing+Life+in+Frames+(Photographer);Automating+Cloud+Infrastructure;Building+Digital+Twins" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Satyam%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Code.%20Capture.%20Secure.&descAlignY=55&descSize=20&fontColor=ffffff" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=DevSecOps+Engineer;Cloud+Security+Enthusiast;Infrastructure+Automator;Candid+Photographer" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <i>"I capture the world in frames by day, and <b>secure</b> its digital infrastructure by night —<br>bridging the gap between development, operations, and security."</i>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/iamsatyam1" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/iamsatyam1" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:satyamkumar.sk2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=Satyam2003-dev&color=green&style=flat&logo=github" target="_blank">
+      <img src="https://img.shields.io/badge/Views-Checking...-20C20E?style=for-the-badge&logo=github" />
+    </a>
+  </p>
 </div>
-
-<div align="center">
-  <img src="https://images.stockcake.com/public/c/6/1/c617c58e-4ae3-4334-97d3-13d099db8ff1_large/neon-data-thieves-stockcake.jpg" alt="Satyam Kumar" width="100%" style="border-radius: 12px; border: 2px solid #20C20E; box-shadow: 0 0 20px rgba(32, 194, 14, 0.4);"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <b>"I architect secure infrastructure by day, and freeze time in frames by night."</b><br/>
-  <i>Bridging the gap between raw binary and visual artistry.</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:satyamkumar.sk2003@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.pexels.com/@iamsatyam1" target="_blank">
-    <img src="https://img.shields.io/badge/My_Photography-00C853?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" />
-  </a>
-</p>
 
 ---
 
-<h2 align="center">⚡ The Operator Profile</h2>
+### 🛡️ About Me
 
-<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 Engineering (DevSecOps)</h3>
-      <ul>
-        <li><b>Focus:</b> Cloud Security, CI/CD Automation, K8s.</li>
-        <li><b>Philosophy:</b> "Security is not an afterthought."</li>
-        <li><b>Current Mission:</b> Mastering Cloud-Native Security.</li>
-      </ul>
+    <td valign="center">
+      <br>
+      🔐 <b>Security First:</b> Integrating security into the CI/CD pipeline (Shift Left).<br>
+      ☁️ <b>Cloud Native:</b> Architecting scalable and secure cloud infrastructure.<br>
+      🤖 <b>Automation:</b> Eliminating toil with Python, Bash, and Ansible.<br>
+      📷 <b>Photographer:</b> Capturing moments with the same precision I apply to code.<br>
+      🌱 <b>Learning:</b> Currently exploring advanced Kubernetes security & chaos engineering.
     </td>
-    <td width="50%" valign="top">
-      <h3>📷 Creativity (Photography)</h3>
-      <ul>
-        <li><b>Style:</b> Candid, Street, and Narrative.</li>
-        <li><b>Gear:</b> Capturing stories, not just pixels.</li>
-        <li><b>View Work:</b> <a href="https://www.pexels.com/@iamsatyam1">Check my Pexels Portfolio</a></li>
-      </ul>
+    <td valign="center">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /> 
     </td>
   </tr>
 </table>
-</div>
 
-<br/>
+---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,cpp,mysql&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,mongodb,nodejs,express&perline=6" />
-</div>
-
-<br/>
-
-<h2 align="center">📊 Network Traffic (Stats)</h2>
+### 🛠 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=tokyonight&hide_border=true&card_width=500" alt="Streak Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2003-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%" />
+
+  **Infrastructure & Cloud**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible" />
+  </a>
+
+  <br><br>
+
+  **CI/CD & Scripting**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,python,bash,go,linux" />
+  </a>
+
+  <br><br>
+
+  **Monitoring & Databases**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,mongodb,postgres,elasticsearch" />
+  </a>
+
 </div>
 
-<h2 align="center">🐍 Contribution Activity</h2>
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github.com/Satyam2003-dev/Satyam2003-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam2003-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satyam2003-dev&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam2003-dev&theme=tokyo-night&bg_color=0d1117&color=20C20E&line=20C20E&point=ffffff" width="100%" />
 </div>
 
-<br/>
+---
+
+### 📷 Photography Portfolio
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=000000,20C20E,000000&animation=fadeIn" />
+  <p>Check out my clicks on these platforms</p>
+  <a href="https://www.pexels.com/@ninjahitman/" target="_blank">
+    <img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://unsplash.com/@ninjahitman" target="_blank">
+    <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 </div>
